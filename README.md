@@ -2,8 +2,8 @@
 
 <p align="row">
   <p align="left">
-    <img src= "screenshot1.png" width="300" >
-    <img src= "screenshot2.png" width="300" >
+    <img src= "screenshot_1.png" width="300" >
+    <img src= "screenshot_2.png" width="300" >
   </p>
 </p>
 
